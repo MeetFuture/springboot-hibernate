@@ -1,0 +1,14 @@
+package com.tangqiang.springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MySpringbootHibernateApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MySpringbootHibernateApplication.class, args);
+	}
+
+
+}
